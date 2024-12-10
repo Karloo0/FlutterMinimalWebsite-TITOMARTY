@@ -352,7 +352,7 @@ class MinimalMenuBar extends StatelessWidget {
                     context,
                     Navigator.defaultRouteName,
                     ModalRoute.withName(Navigator.defaultRouteName)),
-                child: Text("CARL",
+                child: Text("ElevaTech IT Solutions",
                     style: GoogleFonts.montserrat(
                         color: textPrimary,
                         fontSize: 30,
