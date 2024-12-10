@@ -6,6 +6,7 @@ import 'package:minimal/pages/pages.dart';
 import 'package:minimal/utils/no_animation_page_transitions_builder.dart';
 import 'package:responsive_framework/responsive_framework.dart';
 
+
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
 

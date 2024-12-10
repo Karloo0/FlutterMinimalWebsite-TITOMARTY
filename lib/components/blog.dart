@@ -388,7 +388,7 @@ class MinimalMenuBar extends StatelessWidget {
                           onPressed: () {},
                           style: menuButtonStyle,
                           child: const Text(
-                            "PORTFOLIO",
+                            "CAREERS",
                           ),
                         ),
                         TextButton(
